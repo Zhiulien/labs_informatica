@@ -40,4 +40,5 @@
 # debug information files
 *.dwo
 /.vs
-/Lab1RegEspr/obj/Debug
+/Lab1RegEspr/obj
+/Lab1RegEspr/bin
